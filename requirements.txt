@@ -15,7 +15,6 @@ jsonschema==3.2.0
 MarkupSafe==1.1.1
 matplotlib==3.1.3
 mccabe==0.6.1
-numpy==1.18.1
 pandas==1.0.1
 python-dateutil==2.8.1
 pytz==2019.3
@@ -29,3 +28,7 @@ Werkzeug==1.0.0
 widgetsnbextension==3.5.1
 wordcloud==1.6.0
 pyOpenSSL==20.0.1
+
+
+
+
